@@ -1,7 +1,25 @@
 # CC4P1-ProgramacionConcurrente-Distribuida
+
+
 Laboratorios grupales del curso de Programación Concurrente y Distribuida.
-Laboratorio 1 Threads -> algoritmos de multiplicación de matrices y Metodo Jacobi 
+
+
 Alumnos:
-Quispe Amao , Renzo Renato
-Bautista León, Anthony Daniel
-Peralta Haro, Katheryn Ximena
+
+*Quispe Amao , Renzo Renato
+
+*Bautista León, Anthony Daniel
+
+*Peralta Haro, Katheryn Ximena
+
+
+##Laboratorio 1
+
+Algoritmos de multiplicación de matrices y Metodo Jacobi
+[laboratorio1](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/lab01)
+ 
+##Laboratorio 2
+
+Bomberman
+[laboratorio2](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/lab02)
+ 
