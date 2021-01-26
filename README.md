@@ -23,3 +23,7 @@ Algoritmos de multiplicación de matrices y Metodo Jacobi
 Bomberman
 [laboratorio2](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/lab02)
  
+##Laboratorio 4
+
+Concurrencia de Recursos Distribuidos
+[laboratorio4](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/lab04)
