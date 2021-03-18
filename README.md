@@ -27,3 +27,13 @@ Bomberman
 
 Concurrencia de Recursos Distribuidos
 [laboratorio4](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/lab04)
+
+##Parcial
+
+Concurrencia de Recursos Distribuidos
+[parcial](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/parcial)
+
+##Final
+
+Concurrencia de Recursos Distribuidos
+[final](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida/tree/main/final)
